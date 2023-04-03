@@ -1,3 +1,3 @@
-# analysing_credit_default-for-SHORE
+# analysing_credit_defaults-for-SHORE
 
 Task description within the attached excel.
